@@ -1,5 +1,7 @@
 # PDF-based-questions-and-answers
 
+This code takes a pdf file and a list of questions as input and generates a JSON blob with the question and answer pair as output.
+There is code for the UI demo with gradio that we can use for question and answering (refer demo_video.mp4)
 
 To further improve performance and scalability we can try these things:
 
